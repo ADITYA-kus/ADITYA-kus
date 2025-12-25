@@ -1,5 +1,5 @@
 <!--Banner-->
-![ADITYA Banner Image](D:\pythonFiles\profile\welcome.png)
+![ADITYA Banner Image](./welcome.png)
 
 <!--Night Owl image-->
 <div>
@@ -123,16 +123,16 @@
 
 
 
-<a href="https://www.githubcom/Suhaib3100" target="_blank">
+<a href="https://github.com/ADITYA-kus" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Suhaib3100" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/suhaib-sz" target="_blank">
+<a href="https://www.linkedin.com/in/adity-kushwaha-a14677349" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.kaggle.com/anandkushawaha" target="_blank">
-<img src="D:\pythonFiles\profile\kggl.png" width=50 height=50 alt="Suhaib" style="margin-bottom: 5px;" />
+<img src="./assets/kaggle.png" width=50 height=50 alt="Suhaib" style="margin-bottom: 5px;" />
 </a>
 
 </div>
