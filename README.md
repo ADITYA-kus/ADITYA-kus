@@ -118,13 +118,13 @@
 <div align="center">
   
 <a href="mailto:aditykushwaha69@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="suhaibking310@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="aditykushwaha69@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 
 
 <a href="https://github.com/ADITYA-kus" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Suhaib3100" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="ADITYA-kus" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/adity-kushwaha-a14677349" target="_blank">
@@ -132,7 +132,7 @@
 </a>
 
 <a href="https://www.kaggle.com/anandkushawaha" target="_blank">
-<img src="./assets/kaggle.png" width=50 height=50 alt="Suhaib" style="margin-bottom: 5px;" />
+  <img src="./assets/kaggle.png" width="50" height="50" alt="Kaggle" style="margin-bottom: 5px;" />
 </a>
 
 </div>
