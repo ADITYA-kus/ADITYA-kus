@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Data Science enthusiast. I specialize in building end-to-end data solutions, from automated *Web Scraping* to interactive dashboards. I have a strong foundation in statistical modeling and am currently diving deep into *Deep Learning, with plans to specialize in **NLP*</p>
+<p align="left">I am a Data Science enthusiast. I specialize in building end-to-end data solutions, from automated *Web Scraping** to interactive dashboards. I have a strong foundation in statistical modeling and am currently diving deep into **Deep Learning**, with plans to specialize in **NLP**</p>
 
 - ✨ Student of life :
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -132,7 +132,7 @@
 </a>
 
 <a href="https://www.kaggle.com/anandkushawaha" target="_blank">
-  <img src="./assets/kaggle.png" width="50" height="50" alt="Kaggle" style="margin-bottom: 5px;" />
+  <img src="./assets/kggl.png" width="50" height="50" alt="Kaggle" style="margin-bottom: 5px;" />
 </a>
 
 </div>
