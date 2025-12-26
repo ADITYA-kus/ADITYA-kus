@@ -72,8 +72,8 @@
   <tr>
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/Suhaib3100/cf_ai_percify_avatar_copilot">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Suhaib3100&repo=cf_ai_percify_avatar_copilot&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
+      <a href="https://github.com/ADITYA-kus/security_monitoring_system_deploy.git">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ADITYA-kus&repo=security_monitoring_system_deploy&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="project" />
       </a>
     </td>
     <td align="center">
@@ -132,7 +132,7 @@
 </a>
 
 <a href="https://www.kaggle.com/anandkushawaha" target="_blank">
-  <img src="./assets/kggl.png" width="50" height="50" alt="Kaggle" style="margin-bottom: 5px;" />
+  <img src="./kggl.png" width="50" height="50" alt="Kaggle" style="margin-bottom: 5px;" />
 </a>
 
 </div>
