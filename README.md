@@ -59,13 +59,17 @@
     <td width="50%" align="center">
       <h3><strong>GitHub Stats</strong></h3>
       <a href="https://github.com/ADITYA-kus">
-        <img src="https://github-readme-stats.vercel.app/api?username=ADITYA-kus&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
+        <img src="./profile/stats.svg" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3><strong>Streak Stats</strong></h3>
       <a href="https://github.com/ADITYA-kus">
-        <img src="https://streak-stats.demolab.com?user=ADITYA-kus&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYA-kus/ADITYA-kus/output/github-streak-stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADITYA-kus/ADITYA-kus/output/github-streak-stats-light.svg" />
+  <img alt="github-streak-stats" src="https://raw.githubusercontent.com/ADITYA-kus/ADITYA-kus/output/github-streak-stats-dark.svg" />
+</picture>
       </a>
     </td>
   </tr>
@@ -73,7 +77,7 @@
     <td align="center">
       <h3><strong>Latest Project</strong></h3>
       <a href="https://github.com/ADITYA-kus/security_monitoring_system_deploy.git">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ADITYA-kus&repo=security_monitoring_system_deploy&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="project" />
+        <img width="470" src="./profile/pinned-project.svg" alt="project" />
       </a>
     </td>
     <td align="center">
@@ -106,7 +110,6 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=It%20matters%20not%20who%20you%20love%2C%20where%20you%20love%2C%20why%20you%20love%2C%20when%20you%20love%20or%20how%20you%20love%2C%20it%20matters%20only%20that%20you%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
 
 
 
@@ -146,4 +149,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
