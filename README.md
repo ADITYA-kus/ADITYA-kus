@@ -59,36 +59,25 @@
     <td width="50%" align="center">
       <h3><strong>GitHub Stats</strong></h3>
       <a href="https://github.com/ADITYA-kus">
-        <img src="./profile/stats.svg" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ADITYA-kus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3><strong>Streak Stats</strong></h3>
       <a href="https://github.com/ADITYA-kus">
-        <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYA-kus/ADITYA-kus/output/github-streak-stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADITYA-kus/ADITYA-kus/output/github-streak-stats-light.svg" />
-  <img alt="github-streak-stats" src="https://raw.githubusercontent.com/ADITYA-kus/ADITYA-kus/output/github-streak-stats-dark.svg" />
-</picture>
+        <img src="https://streak-stats.demolab.com?user=ADITYA-kus&theme=tokyonight" alt="github-streak-stats" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3><strong>Latest Project</strong></h3>
-      <a href="https://github.com/ADITYA-kus/security_monitoring_system_deploy.git">
-        <img width="470" src="./profile/pinned-project.svg" alt="project" />
-      </a>
-    </td>
-    <td align="center">
-      <h3><strong>Top Contributions</strong></h3>
+    <td colspan="2" align="center">
+      <h3><strong>Top Languages</strong></h3>
       <a href="https://github.com/ADITYA-kus">
-        <img src="https://github-contributor-stats.vercel.app/api?username=ADITYA-kus&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-kus&layout=compact&theme=tokyonight" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
-<br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
