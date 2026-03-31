@@ -52,32 +52,22 @@
 <br clear="both"/>
 
 <!-- GitHub Stats -->
+
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-<h3><strong>GitHub Stats</strong></h3>
-<a href="https://github.com/ADITYA-kus">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADITYA-kus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</a>
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Streak Stats</strong></h3>
-      <a href="https://github.com/ADITYA-kus">
-        <img src="https://streak-stats.demolab.com?user=ADITYA-kus&theme=tokyonight" alt="github-streak-stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-   <h3><strong>Top Languages</strong></h3>
-<a href="https://github.com/ADITYA-kus">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-kus&layout=compact&theme=tokyonight" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/ADITYA-kus">
+    <img src="https://streak-stats.demolab.com?user=ADITYA-kus&theme=tokyonight" alt="github-streak-stats" />
+  </a>
+</div>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/ADITYA-kus">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Repos-181717?style=for-the-badge&logo=github" alt="https://github.com/ADITYA-kus/codemap_ai" />
+  </a>
+</p>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
