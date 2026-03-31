@@ -57,10 +57,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3><strong>GitHub Stats</strong></h3>
-      <a href="https://github.com/ADITYA-kus">
-        <img src="https://github-readme-stats.vercel.app/api?username=ADITYA-kus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-      </a>
+<h3><strong>GitHub Stats</strong></h3>
+<a href="https://github.com/ADITYA-kus">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADITYA-kus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</a>
     </td>
     <td width="50%" align="center">
       <h3><strong>Streak Stats</strong></h3>
@@ -71,9 +71,9 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3><strong>Top Languages</strong></h3>
-      <a href="https://github.com/ADITYA-kus">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-kus&layout=compact&theme=tokyonight" alt="Top Languages" />
+   <h3><strong>Top Languages</strong></h3>
+<a href="https://github.com/ADITYA-kus">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-kus&layout=compact&theme=tokyonight" alt="Top Languages" />
       </a>
     </td>
   </tr>
