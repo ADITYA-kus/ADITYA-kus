@@ -7,20 +7,33 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Aditya! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>👋 Hi, I'm Aditya 
 *(AI Enthusiast / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Data Science enthusiast. I specialize in building end-to-end data solutions, from automated *Web Scraping** to interactive dashboards. I have a strong foundation in statistical modeling and am currently diving deep into **Deep Learning**, with plans to specialize in **NLP**</p>
+<p align="left">
+🚀 Building **MemoryOS** — The Memory Layer for AI
 
-- ✨ Student of life :
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🌐 Building [kaggle project](https://www.kaggle.com/anandkushawaha)
-<!-- - 💁‍♂️ Trusted member and Moderator at [Once UI](https://once-ui.com) -->
-- ❤ Contributing to Open Source.
-<!-- 💻 Visit my [Portfolio](https://ceo.pronexus.in) for more details about me.>
-<!--End Intro-->
+I design and build backend infrastructure that gives AI systems persistent, structured memory — semantic, episodic, and procedural.
+
+💡 Focus Areas:
+- AI Memory Systems & LLM Infrastructure
+- Backend Engineering (APIs, distributed systems)
+- Data modeling for intelligent agents
+
+⚡ Current Work:
+- Developing MemoryOS (B2B API for AI memory)
+- Designing scalable memory extraction pipelines
+- Solving real-world latency & memory consistency problems
+
+🌍 Vision:
+Make AI systems that **remember, learn, and improve over time** — without losing user control.
+
+💬 Open to:
+- Collaboration with AI builders
+- Early adopters / platform integrations
+- Technical discussions on LLM memory systems</p>
 
 
 <!--Languages and Tools Section-->       
