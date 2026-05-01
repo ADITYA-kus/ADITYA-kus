@@ -7,13 +7,13 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>👋 Hi, I'm Aditya 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Aditya 
 *(AI Enthusiast / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
 <p align="left">
-🚀 Building **MemoryOS** — The Memory Layer for AI
+🚀 Building MemoryOS — The Memory Layer for AI
 
 I design and build backend infrastructure that gives AI systems persistent, structured memory — semantic, episodic, and procedural.
 
@@ -43,21 +43,7 @@ Make AI systems that **remember, learn, and improve over time** — without losi
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br />
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Expanding my expertise in Machine Learning & Deep Learning to build predictive models.</li>
-  <li>Deepening my understanding of Python for Data Science, specifically OOP for scalable data pipelines.</li>
-  <li>Enhancing my data manipulation skills using libraries like Pandas, NumPy, and Plotly.</li>
-  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
-  <li>Integrating Large Language Models (LLMs) and NLP techniques using frameworks like LangChain and Hugging Face.</li>
-  <li>Understanding MLOps, including model deployment (FastAPI/Streamlit), version control for data (DVC), and cloud-based ML environments.</li>
-</ul>
-  
-<br />
-<br />
-<br />
 
 
 
