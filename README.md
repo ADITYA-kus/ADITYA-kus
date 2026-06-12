@@ -34,52 +34,11 @@ Make AI systems that **remember, learn, and improve over time** — without losi
 - Collaboration with AI builders
 - Early adopters / platform integrations
 - Technical discussions on LLM memory systems</p>
-
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-
-
-
-
 <br />
 <br clear="both"/>
 
-<!-- GitHub Stats -->
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<div align="center">
-  <a href="https://github.com/ADITYA-kus">
-    <img src="https://streak-stats.demolab.com?user=ADITYA-kus&theme=tokyonight" alt="github-streak-stats" />
-  </a>
-</div>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/ADITYA-kus">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Repos-181717?style=for-the-badge&logo=github" alt="https://github.com/ADITYA-kus/codemap_ai" />
-  </a>
-</p>
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYA-kus&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
-
----
-
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
 
 
 
@@ -88,11 +47,6 @@ Make AI systems that **remember, learn, and improve over time** — without losi
     <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Lennon&quote=It%20matters%20not%20who%20you%20love%2C%20where%20you%20love%2C%20why%20you%20love%2C%20when%20you%20love%20or%20how%20you%20love%2C%20it%20matters%20only%20that%20you%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
 
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
